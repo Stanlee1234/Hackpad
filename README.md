@@ -17,6 +17,6 @@ Good thing that I have a Bambu Lab A1! Now I don't need to wait for it to be acc
 
 Schematic!            |  PCB!         |   Case!
 :-------------------------:|:-------------------------:|:-------------------------:|
-<img width="769" height="436" alt="Screenshot 2025-11-23 at 19 34 02" src="https://github.com/user-attachments/assets/3ca2276d-c77b-46ef-bada-0d47cfb5e076" /> | <img width="541" height="383" alt="Screenshot 2025-11-23 at 19 33 52" src="https://github.com/user-attachments/assets/52e2396a-f065-4062-b2a3-796fa2863b86" /> | <img width="917" height="702" alt="Screenshot 2025-11-23 at 19 39 51" src="https://github.com/user-attachments/assets/ae21e49e-bb3f-4974-923b-ddf7625399e5" />
+<img width="769" height="436" alt="Screenshot 2025-11-23 at 19 34 02" src="https://github.com/user-attachments/assets/3ca2276d-c77b-46ef-bada-0d47cfb5e076" /> | <img width="541" height="383" alt="Screenshot 2025-11-23 at 19 33 52" src="https://github.com/user-attachments/assets/52e2396a-f065-4062-b2a3-796fa2863b86" /> | <img width="502" height="486" alt="Screenshot 2025-11-24 at 07 20 15" src="https://github.com/user-attachments/assets/d21a5a46-1239-4c64-8c29-63671d6a9fc5" />
 
 
